@@ -24,11 +24,12 @@ export default function Hero() {
 
       <div className="flex-1 flex justify-center float">
         <Image
-          src="/hero.png"
+          src="/coffee.png"
           alt="Coffee"
           width={450}
           height={450}
           priority
+          
         />
       </div>
     </section>
